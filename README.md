@@ -1,4 +1,4 @@
-# dataset_respect
+# dataset_resect
 
 This repository contains demo data to demonstrate the fucntionality of the DeepReg toolbox which is avialbale at:
 https://github.com/DeepRegNet/DeepReg
